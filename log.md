@@ -10,10 +10,9 @@
 
 ### Day 1: August 15, Wednesday
 
-**Today's Progress**: I've gone through many exercises on [FreeCodeCamp](https://www.freecodecamp.com).
+**Today's Progress**: I've gone through many exercises on [FreeCodeCamp](https://www.freecodecamp.com).[**Comment me out or delete me**]
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.[Comment me out or delete me]
-
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.[**Comment me out or delete me**]
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)[**Comment me out or delete me**]
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)[**Comment me out or delete me**]
