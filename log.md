@@ -1,13 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 14th, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learnt about markdown syntax and how to use it, forked the **100 Days of Code repo** on github to my profile.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I am not new to coding or programming but i realized i have never really being good at it either due to my lazy way of coding and my inability to make time to learn how to code properly.Instead i have rather watched people i trained and helped to learning how to program one way or the other get better at it whiles i am still stuck and not improving.I have really struggled with learning,so sometime early this year i made up my mind to get better at programming. I started taking some online courses, listening to podcasts and reading. In addition to that i also started following freecodecamp's curicullum.But then i still haven't committed myself well enough. So today i decide to commit myself to getting better and improving my skills by learning how to code all over again using freecodecamp. Inview of my commiment i decided to learn how to use markdown and so far i have being able to grasp the basics and as you can see for yourself am already using it. I know that i have a long road ahead and it ain't going to be easy, but i believe it would be worth my while.Come tomorrow **_August 15th 2018_**, i would officially begin my **100 days of code challenge**. Stay tuned. 
 
-**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
