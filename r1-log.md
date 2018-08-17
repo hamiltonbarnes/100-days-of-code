@@ -38,4 +38,4 @@ The log of my #100DaysOfCode challenge. Started on [August 15, Wednesday, 2018].
  - Create Texture by Adding a Subtle Pattern as a Background Image
  - Use the CSS Transform scale Property to Change the Size of an Element
 
-**Thoughts**: I realized  thst programming can sometimes be fun but it can also be frustrating. But when ever you feel frustrated it helps to carry the memories fo the fun times and the image of the goal ahead. I can only look foward to doing great. 
+**Thoughts**: I realized  that programming can sometimes be fun but it can also be frustrating. But when ever you feel frustrated it helps to carry the memories fo the fun times and the image of the goal ahead. I can only look foward to doing great. 
