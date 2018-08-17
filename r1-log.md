@@ -12,3 +12,30 @@ The log of my #100DaysOfCode challenge. Started on [August 15, Wednesday, 2018].
 **Today's Progress**: Today, i continued with the curicullum on FreeCodeCamp and what learnt was related with [Introduction to the Applied Visual Design Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design).
 
 **Thoughts**: Though am not new to coding,I haven't really made much progress, and now i realise the need to learn and learn well.And after today, i feel like am making progress. I look forward to what is to come next.
+
+**Day 2: August 16,2018 Wednesday**
+**Today's Progress**: Today, i continued with the curicullum on FreeCodeCamp and what learnt was related with [Introduction to the Applied Visual Design Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design);
+ -Use the text-transform Property to Make Text Uppercase
+ -Set the font-size for Multiple Heading Elements
+ -Set the font-weight for Multiple Heading Elements
+ -Set the font-size of Paragraph Text
+ -Set the line-height of Paragraphs
+ -Adjust the Hover State of an Anchor Tag
+ -Change an Element's Relative Position
+ -Move a Relatively Positioned Element with CSS Offsets
+ -Lock an Element to its Parent with Absolute Positioning
+ -Lock an Element to the Browser Window with Fixed Positioning
+ -Push Elements Left or Right with the float Property
+ -Change the Position of Overlapping Elements with the z-index Property
+ -Center an Element Horizontally Using the margin Property
+ -Learn about Complementary Colors
+ -Learn about Tertiary Colors
+ -Adjust the Color of Various Elements to Complementary Colors
+ -Adjust the Hue of a Color
+ -Adjust the Tone of a Color
+ -Create a Gradual CSS Linear Gradient
+ -Use a CSS Linear Gradient to Create a Striped Element
+ -Create Texture by Adding a Subtle Pattern as a Background Image
+ -Use the CSS Transform scale Property to Change the Size of an Element
+
+**Thoughts**: I realized  thst programming can sometimes be fun but it can also be frustrating. But when ever you feel frustrated it helps to carry the memories fo the fun times and the image of the goal ahead. I can only look foward to doing great. 
