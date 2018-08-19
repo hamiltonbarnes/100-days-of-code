@@ -13,7 +13,7 @@ The log of my #100DaysOfCode challenge. Started on [August 15, Wednesday, 2018].
 
 **Thoughts**: Though am not new to coding,I haven't really made much progress, and now i realise the need to learn and learn well.And after today, i feel like am making progress. I look forward to what is to come next.
 
-**Day 2: August 16,2018 Wednesday**
+**Day 2: August 16,2018 Thursday **
 **Today's Progress**: Today, i continued with the curicullum on FreeCodeCamp and what learnt was related with [Introduction to the Applied Visual Design Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design);
  - Use the text-transform Property to Make Text Uppercase
  - Set the font-size for Multiple Heading Elements
@@ -39,3 +39,12 @@ The log of my #100DaysOfCode challenge. Started on [August 15, Wednesday, 2018].
  - Use the CSS Transform scale Property to Change the Size of an Element
 
 **Thoughts**: I realized  that programming can sometimes be fun but it can also be frustrating. But when ever you feel frustrated it helps to carry the memories fo the fun times and the image of the goal ahead. I can only look foward to doing great. 
+**Day 3:August 17,2018 Friday**
+
+**Today's Progress** : Due to circumstances beyond my control i was unable to study/practise much.
+**Thoughts**: A little be down, but decided to add 1 more day since i missed a day out of the 100.
+
+**Day 4: August 17,2018 Saturday**
+**Today's progress**: Finally am back on track, though am still on [Intro to Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design), i did make progress. Learnt something on the use of _Keyframes_. And now i can say i a better understanding of it.
+
+**Thoughts**:It kinda feels like my progress rate is slow but then i also know i can't rush it. 
