@@ -44,7 +44,11 @@ The log of my #100DaysOfCode challenge. Started on [August 15, Wednesday, 2018].
 **Today's Progress** : Due to circumstances beyond my control i was unable to study/practise much.
 **Thoughts**: A little be down, but decided to add 1 more day since i missed a day out of the 100.
 
-**Day 4: August 17,2018 Saturday**
+**Day 4: August 18,2018 Saturday**
 **Today's progress**: Finally am back on track, though am still on [Intro to Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design), i did make progress. Learnt something on the use of _Keyframes_. And now i can say i a better understanding of it.
 
 **Thoughts**:It kinda feels like my progress rate is slow but then i also know i can't rush it. 
+
+**Day 5: August 19,2018 Sunday**
+**Today's progress**: I was able to finish _freecodecamp's_ curriculum on [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) ehnce i get to move on to the next phase of the curriculum which happens to be [Introduction to the Applied Accessibility Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility).
+**Thoughts**: As much as am happy about finishing one chapter of the cirriculum on freecodecamp, it feels like there is much more to do and learn.
