@@ -50,5 +50,21 @@ The log of my #100DaysOfCode challenge. Started on [August 15, Wednesday, 2018].
 **Thoughts**:It kinda feels like my progress rate is slow but then i also know i can't rush it. 
 
 **Day 5: August 19,2018 Sunday**
-**Today's progress**: I was able to finish _freecodecamp's_ curriculum on [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) ehnce i get to move on to the next phase of the curriculum which happens to be [Introduction to the Applied Accessibility Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility).
+**Today's progress**: I was able to finish _freecodecamp's_ curriculum on [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) hence i get to move on to the next phase of the curriculum which happens to be [Introduction to the Applied Accessibility Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility).
 **Thoughts**: As much as am happy about finishing one chapter of the cirriculum on freecodecamp, it feels like there is much more to do and learn.
+
+**Day 6: August 20,2018 Monday**
+**Todays progress**: I started learning on [Introduction to the Applied Accessibility Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility).
+
+**Thoughts**: Well today, i realized that being steady and persistent is an essential key to learning how to code.
+
+**Day 7: August 21,2018 Tuesday**
+**Today's progress**: I continued and finished my study on [Introduction to the Applied Accessibility Challenges](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility).
+
+**Thoughts**: Little by little am gaining more insight on various topics that can help me in my coding. Slow but sure, i suppose it ain't a matter of how fast i learning but rather being able to understand and put into practise i what i learn.
+
+**Day 8:August 22,2018 Wednesday**
+**Today's progress**:For today's progress i learnt about the use and implementation of [Responsive Web Design Principles
+](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles). I also started learning on [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox).
+
+**Thoughts**:Am slowly getting to my goal. I know there is still a long road ahead and i can't be complecent in my actions. I need to work harder if am ever gonna acheive them.
