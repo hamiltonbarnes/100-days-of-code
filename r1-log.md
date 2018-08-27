@@ -79,3 +79,29 @@ The log of my #100DaysOfCode challenge. Started on [August 15, Wednesday, 2018].
 ](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles). I also started learning on [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox).
 
 **Thoughts**:Am slowly getting to my goal. I know there is still a long road ahead and i can't be complecent in my actions. I need to work harder if am ever gonna acheive them.
+
+**Day 9:August 23,2018 Thursday**
+
+**Today's progress**: I wasn't able to do much due to and emergency i had at the office. All the same i plan to make up for it by adding one more day to my journey.
+
+**Thoughts**: I realized life is always going to keep throwing brick blocks, and that will always come between me acheiving my goals. What has to be done has to be done, what can't be done must be done.
+
+**Day 10:August 24,2018 Friday**
+
+**Today's progress**:Today i began  my studies on [Introduction to the CSS Flexbox Challenges](https://learn.freecodecamp.org/responsive-web-design/css-flexbox) according my curriculum on freecodecamp. 
+
+**Thoughts**:  I believe that my skills are finally improving and that makes me happy.
+
+**Day 11:August 25,2018 Saturday**
+
+**Today's progress**: So for today i was able to to finish my left over studies on [Introduction to the CSS Flexbox Challenges](https://learn.freecodecamp.org/responsive-web-design/css-flexbox).
+
+**Thoughts**: I have to work harder, that's all i can think about for today.
+
+**Day 12: August 26,2018 Sunday**
+
+**Today's progress**:I began my studies on [CSS Grids](https://learn.freecodecamp.org/responsive-web-design/css-grid).
+
+**Thoughts**: There is something joy in being able to do something that used to be outside your reach.
+
+
