@@ -104,4 +104,10 @@ The log of my #100DaysOfCode challenge. Started on [August 15, Wednesday, 2018].
 
 **Thoughts**: There is something joy in being able to do something that used to be outside your reach.
 
+**Day 13: August 27,2018 Monday**
+
+**Today's progress**: I start my first freedcodecamp project today. The project has to do with a tribute page. From what i have seen so far it focuses on using the knowledge i have acquired so far by building a real life project. So far it's being fun.
+
+**Thoughts**: My interest in programming has actually being peaked. And i want to do all i can to get better at it.
+
 
