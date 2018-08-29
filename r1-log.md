@@ -110,4 +110,9 @@ The log of my #100DaysOfCode challenge. Started on [August 15, Wednesday, 2018].
 
 **Thoughts**: My interest in programming has actually being peaked. And i want to do all i can to get better at it.
 
+**Day 14: August 28,2018 Tuesday**
+
+**Today's progress**:I finished with my first freedcodecamp project today. The project had to do with a ribute page](https://codepen.io/hamiltonbarnes/full/QVNeaM).
+
+**Thoughts**: I must confess, it kinda felt great building something new on my own.
 
